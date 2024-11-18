@@ -24,6 +24,5 @@ The dataset used is sourced from Kaggle's **Student Performance Data Set**, whic
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Himani-08/student-performance-prediction
-  .git
+   git clone https://github.com/Himani-08/student-performance-prediction.git
    
