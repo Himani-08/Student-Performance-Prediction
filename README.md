@@ -1,3 +1,4 @@
+
 # Student Performance Prediction
 
 ## Overview
@@ -24,5 +25,19 @@ The dataset used is sourced from Kaggle's **Student Performance Data Set**, whic
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Himani-08/student-performance-prediction.git
-   
+   git clone https://github.com/yourusername/yourrepositoryname.git
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Streamlit app:
+   ```bash
+   streamlit run gui.py
+   ```
+
+## Results
+The application predicts student performance based on the provided input. Results depend on the dataset used for training.
+
+## GitHub Link
+[Repository Link](https://github.com/yourusername/yourrepositoryname)
