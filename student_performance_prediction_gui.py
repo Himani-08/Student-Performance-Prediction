@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 @st.cache
 def load_data():
     # Assuming the dataset is pre-loaded here (update with your dataset path)
-    df = pd.read_csv('path/to/dataset.csv')
+    df = pd.read_csv('dataset.csv')
     return df
 
 def train_model(df):
