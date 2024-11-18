@@ -1,25 +1,36 @@
 
-**Title**: Student Performance Prediction Report
+Title: Student Performance Prediction Report
 
-**Contents**:
-1. **Abstract**:
-   This project leverages a Random Forest Classifier to predict student performance using features like study time and parental education. The predictions aim to help educators and parents understand factors influencing student outcomes.
+Contents:
 
-2. **Introduction**:
-   Academic performance prediction is critical for early intervention. This project integrates machine learning and a GUI to make performance prediction accessible.
+1. Abstract:
 
-3. **Methodology**:
-   - **Data Preprocessing**: 
+This project leverages a Random Forest Classifier to predict student performance using features like study time and parental education. The predictions aim to help educators and parents understand factors influencing student outcomes.
+
+2.Introduction:
+
+Academic performance prediction is critical for early intervention. This project integrates machine learning and a GUI to make performance prediction accessible.
+
+3.Methodology:
+
+ - Data Preprocessing: 
+
      - Filled missing values using forward fill.
      - Encoded categorical variables (e.g., parental education).
-   - **Model Selection**:
+
+- Model Selection:
+
      - Random Forest Classifier was chosen for its robustness and accuracy.
-   - **Training**:
+
+ - Training:
+
      - Data was split into training (80%) and testing (20%).
      - Features were scaled using StandardScaler.
 
-4. **Results**:
-   The application provides a predicted performance category for the input student data. Accuracy depends on the dataset.
+4.Results:
 
-5. **Conclusion**:
-   This project demonstrates how machine learning can assist in educational analytics. Future work could include more features like attendance or extracurricular involvement.
+The application provides a predicted performance category for the input student data. Accuracy depends on the dataset.
+
+5.Conclusion:
+
+This project demonstrates how machine learning can assist in educational analytics. Future work could include more features like attendance or extracurricular involvement.
