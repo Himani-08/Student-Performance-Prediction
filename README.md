@@ -40,4 +40,4 @@ The dataset used is sourced from Kaggle's **Student Performance Data Set**, whic
 The application predicts student performance based on the provided input. Results depend on the dataset used for training.
 
 ## GitHub Link
-[Repository Link](https://github.com/yourusername/yourrepositoryname)
+[Repository Link](https://github.com/Himani-08/Student-Performance-Prediction.git)
